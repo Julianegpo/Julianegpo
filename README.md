@@ -5,7 +5,7 @@ Hi there! I'm a passionate **Software Developer** with a strong foundation in bo
 ---
 
 ## 🎓 **Education**  
-- 📜 **Graduated in Multiplatform Application Development**  
+- 📜 **Graduated in Crossplatform Application Development**  
 - 📜 **Graduated in Web Application Development**  
 
 ---
